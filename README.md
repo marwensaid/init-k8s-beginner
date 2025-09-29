@@ -1,7 +1,5 @@
 # init-k8s-beginner
 
-Parfait — je te propose un **TD d’initiation à Kubernetes** destiné à des étudiants de M2 (niveau master). Ce TD est structuré pour être à la fois **atelier pratique** (les commandes à exécuter) et **support de révision** (définitions, notions et quiz). Tout est en **français**, avec des manifestes YAML, commandes `kubectl`/`minikube` et explications ≈ pas à pas.
-
 > Hypothèses d’environnement (ne pas demander) : les étudiants utiliseront **minikube** (assez simple pour un TD local). Si tu préfères `kind` / `k3s`, dis-le et j’adapte. Ici j’utilise minikube dans les exemples.
 
 ---
