@@ -1,7 +1,5 @@
 # init-k8s-beginner
 
-> Hypothèses d’environnement (ne pas demander) : les étudiants utiliseront **minikube** (assez simple pour un TD local). Si tu préfères `kind` / `k3s`, dis-le et j’adapte. Ici j’utilise minikube dans les exemples.
-
 ---
 
 # Objectifs du TD
