@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: echo-nodeport
+spec:
+  selector:
+    app: echo
+  type: NodePort
+  ports:
+    - port: 80
+      targetPort: 5678
+      nodePort: 30080   # optionnel : minikube autorise plage 30000-32767
